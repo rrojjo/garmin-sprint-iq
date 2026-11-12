@@ -1,0 +1,19 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">Series</string>
+    <string id="RecordingFailed">Error al grabar</string>
+    <string id="SaveFailed">Error. Reintentar</string>
+    <string id="MenuPaused">Pausado</string>
+    <string id="MenuResume">Reanudar</string>
+    <string id="MenuLapContinue">Lap y continuar</string>
+    <string id="MenuViewLaps">Ver vueltas</string>
+    <string id="CurrentLapPaused">Actual (pausada)</string>
+    <string id="MenuSave">GUARDAR</string>
+    <string id="MenuDiscard">Descartar</string>
+    <string id="SettingsTitle">Ajustes</string>
+    <string id="SettingsVibration">Vibración</string>
+    <string id="SettingsSound">Sonido al lap</string>
+    <string id="SettingsTheme">Tema oscuro</string>
+    <string id="ConfirmDiscard">¿Descartar?</string>
+    <string id="ConfirmYes">Sí</string>
+    <string id="ConfirmNo">No</string>
+</strings>
